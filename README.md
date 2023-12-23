@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=35&color=DEE2E6&center=true&Center=true&width=1000&lines=Hello%2C+World!%F0%9F%91%8B;My+name+is+Gustavo+Gordoni;I'm+17+years+old;I'm+a+computer+technician+student+at+IFSP;Well%2C+welcome!;'-')](https://git.io/typing-svg)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&show_icons=true&theme=radical" alt="Gustavo Gordoni Github status" width="310" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&show_icons=true&theme=radical" alt="Gustavo Gordoni Github status" width="300" /> 
 
 ```csharp
 Gustavo Luiz Gordoni
