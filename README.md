@@ -19,15 +19,16 @@ Learning: Docker, Redis, Nginx
 ```
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Gordoni-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gordoni-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gordoni-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gordoni-PHP" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Gordoni-Java" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Gordoni-Bootstrap" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Gordoni-Laravel" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Gordoni-MySQL" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
-  <img align="center" alt="Gordoni-Potsgress" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+    <img align="center" alt="Gordoni-HTML" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gordoni-CSS" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gordoni-Js" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Gordoni-PHP" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    <img align="center" alt="Gordoni-Java" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img align="center" alt="Gordoni-Bootstrap" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="Gordoni-Laravel" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="Gordoni-MySQL" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
+    <img align="center" alt="Gordoni-Potsgress" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+
 </div>
 
 ##
