@@ -22,11 +22,11 @@ Learning: Docker, Redis, Nginx
     <img align="center" alt="Gordoni-HTML" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gordoni-CSS" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Gordoni-Js" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Gordoni-PHP" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    <img align="center" alt="Gordoni-PHP" height="40" width="53" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
     <img align="center" alt="Gordoni-Java" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" alt="Gordoni-Bootstrap" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="Gordoni-Laravel" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-    <img align="center" alt="Gordoni-MySQL" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
+    <img align="center" alt="Gordoni-Bootstrap" height="40" width="53" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
+    <img align="center" alt="Gordoni-Laravel" height="40" width="53" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg">
+    <img align="center" alt="Gordoni-MySQL" height="40" width="53" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">  
     <img align="center" alt="Gordoni-Potsgress" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 
 </div>
