@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=35&color=DEE2E6&center=true&Center=true&width=1000&lines=Hello%2C+World!%F0%9F%91%8B;My+name+is+Gustavo+Gordoni;I'm+17+years+old;I'm+a+computer+technician+student+at+IFSP;Well%2C+welcome!;'-')](https://git.io/typing-svg)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&show_icons=true&hide_border=false&theme=radical&bg_color=0d1117" alt="Gustavo Gordoni Github status" width="300" /> 
+<img align="left" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=DEE2E6&text_color=ffffff&bg_color=0d1117" />
 
 ```csharp
 Gustavo Luiz Gordoni
@@ -17,22 +17,12 @@ Frameworks: Bootstrap, Laravel
 Languages: HTML, CSS, JavaScript, PHP, Java
 Learning: Docker, Redis, Nginx
 ```
-
 <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Gordoni-HTML" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Gordoni-CSS" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gordoni-Js" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Gordoni-PHP" height="40" width="53" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
-    <img align="center" alt="Gordoni-Java" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" alt="Gordoni-Bootstrap" height="40" width="53" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
-    <img align="center" alt="Gordoni-Laravel" height="40" width="53" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg">
-    <img align="center" alt="Gordoni-MySQL" height="40" width="53" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">  
-    <img align="center" alt="Gordoni-Potsgress" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-
+     <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,js,php,java,bootstrap,laravel,mysql,postgres" />
 </div>
 
-##
-  
+##  
+
 <h3 align="center">Connect with me</h3>
 <div align="center">
   <p>  
