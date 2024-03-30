@@ -8,14 +8,14 @@
 
 ```json
 {
-"name": "Gustavo Luiz Gordoni",
-"occupation": "Computer Technician Student",
-"age": 17,
-"pronouns": "He/Him",
-"country": "Brazil",
-"frameworks": ["Bootstrap", "Laravel"],
-"languages": ["HTML", "CSS", "JavaScript", "PHP", "Java"],
-"learning": ["Docker", "Redis", "Nginx"]
+  "name": "Gustavo Luiz Gordoni",
+  "occupation": "Computer Technician Student",
+  "age": 17,
+  "pronouns": "He/Him",
+  "country": "Brazil",
+  "frameworks": ["Bootstrap", "Laravel"],
+  "languages": ["HTML", "CSS", "JavaScript", "PHP", "Java"],
+  "learning": ["Docker", "Redis", "Nginx"]
 }
 ```
 <div style="display: inline_block" align="center"><br>
