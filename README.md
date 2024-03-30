@@ -6,16 +6,17 @@
 
 <img align="left" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=DEE2E6&text_color=ffffff&bg_color=0d1117" />
 
-```csharp
-Gustavo Luiz Gordoni
--------------------------
-Occupation: Computer Technician Student
-Age: 17 years old
-Pronouns: He/Him
-Country: Brazil
-Frameworks: Bootstrap, Laravel
-Languages: HTML, CSS, JavaScript, PHP, Java
-Learning: Docker, Redis, Nginx
+```json
+{
+"name": "Gustavo Luiz Gordoni",
+"occupation": "Computer Technician Student",
+"age": 17,
+"pronouns": "He/Him",
+"country": "Brazil",
+"frameworks": ["Bootstrap", "Laravel"],
+"languages": ["HTML", "CSS", "JavaScript", "PHP", "Java"],
+"learning": ["Docker", "Redis", "Nginx"]
+}
 ```
 <div style="display: inline_block" align="center"><br>
      <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,js,php,java,bootstrap,laravel,mysql,postgres" />
