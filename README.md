@@ -20,7 +20,7 @@
 ```
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/gustavogordoni">
      <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,java,mysql,postgres,git,bash,linux,vscode,vim,docker" />
   </a>
 </p>
