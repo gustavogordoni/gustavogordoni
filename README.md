@@ -18,9 +18,12 @@
   "learning": ["Docker", "Redis", "Nginx"]
 }
 ```
-<div style="display: inline_block" align="center"><br>
-     <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,js,php,java,bootstrap,laravel,mysql,postgres" />
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,java,mysql,postgres,git,bash,linux,vscode,vim,docker" />
+  </a>
+</p>
 
 ##  
 
