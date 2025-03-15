@@ -9,7 +9,7 @@
 ```json
 {
   "name": "Gustavo Luiz Gordoni",
-  "occupation": "Computer Technician Student",
+  "occupation": "Computer Technician",
   "age": 18,
   "pronouns": "He/Him",
   "country": "Brazil",
