@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=35&color=DEE2E6&center=true&Center=true&width=1000&lines=Hello%2C+World!%F0%9F%91%8B;My+name+is+Gustavo+Gordoni;I'm+18+years+old;I'm+a+computer+technician+student+at+IFSP;Well%2C+welcome!;ツ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=35&color=DEE2E6&center=true&Center=true&width=1000&lines=Hello%2C+World!%F0%9F%91%8B;My+name+is+Gustavo+Gordoni;I'm+18+years+old;I'm+a+computer+technician+at+IFSP;Well%2C+welcome!;ツ)](https://git.io/typing-svg)
 
 <img align="left" width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=DEE2E6&text_color=ffffff&bg_color=0d1117" />
 
