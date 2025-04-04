@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!%F0%9F%91%8B;My+name+is+Gustavo+Gordoni;I'm+18+years+old;I'm+a+computer+technician+at+IFSP;Well%2C+welcome!;ツ&font=Fira%20Code&center=true&width=1000&height=45&color=f75c7e&vCenter=true&pause=1000&size=35"/></a>
 </p>
 
-<img align="left" width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=888888&bg_color=00000000" />
+<img align="left" width="45%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=false&title_color=f75c7e&text_color=888888&bg_color=00000000" />
 
 ```json
 {
@@ -21,7 +21,8 @@
   "pronouns": "He/Him",
   "country": "Brazil",
   "frameworks": ["Bootstrap", "Laravel"],
-  "languages": ["HTML", "CSS", "JavaScript", "PHP", "Java"],
+  "languages": ["HTML", "CSS", "JavaScript",
+                "PHP", "Java"],
   "learning": ["Docker", "Redis", "Nginx"]
 }
 ```
