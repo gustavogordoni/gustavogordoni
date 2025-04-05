@@ -2,13 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=90"/>
 </p>
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=35&color=f75c7e&center=true&Center=true&width=1000&lines=Hello%2C+World!%F0%9F%91%8B;My+name+is+Gustavo+Gordoni;I'm+18+years+old;I'm+a+computer+technician+at+IFSP;Well%2C+welcome!;ツ)](https://git.io/typing-svg)
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=35&color=f75c7e&center=true&Center=true&width=1000&lines=Hello%2C+World!%F0%9F%91%8B;My+name+is+Gustavo+Gordoni;I'm+18+years+old;I'm+a+computer+technician+at+IFSP;Well%2C+welcome!;ツ)](https://git.io/typing-svg)
 -->
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!%F0%9F%91%8B;My+name+is+Gustavo+Gordoni;I'm+18+years+old;I'm+a+computer+technician+at+IFSP;Well%2C+welcome!;ツ&font=Fira%20Code&center=true&width=1000&height=45&color=f75c7e&vCenter=true&pause=1000&size=35"/></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!%F0%9F%91%8B;My+name+is+Gustavo+Gordoni;I'm+18+years+old;I'm+a+computer+technician+at+IFSP;Well%2C+welcome!;ツ&font=Fira%20Code&center=true&width=1000&height=45&color=f75c7e&vCenter=true&pause=1000&size=35"/>
 </p>
 
 <picture>
