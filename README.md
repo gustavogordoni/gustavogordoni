@@ -35,6 +35,18 @@
   </a>
 </p>
 
+<div align="center">
+  <details>
+    <summary>🐍</summary>
+    <br />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+    </picture>
+  </details>
+</div>
+
 ##  
 
 <h3 align="center">Connect with me</h3>
