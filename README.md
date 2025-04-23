@@ -10,24 +10,35 @@
   -->
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=ffffff&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=000000&bg_color=00000000">
-  <img align="left" width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=888888&bg_color=00000000" />
-</picture>
+<table>
+  <tr>
+    <td valign="middle" width="40%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=ffffff&bg_color=00000000">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=000000&bg_color=00000000">
+        <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=888888&bg_color=00000000" />
+      </picture>
+    </td>
+    <td valign="middle">
 
-```json
-{
-  "name": "Gustavo Luiz Gordoni",
-  "occupation": "Computer Technician",
-  "age": 18,
-  "pronouns": "He/Him",
-  "country": "Brazil",
-  "frameworks": ["Bootstrap", "Laravel"],
-  "languages": ["HTML", "CSS", "JavaScript", "PHP", "Java"],
-  "learning": ["Docker", "Redis", "Nginx"]
-}
-```
+  ```json
+  {
+    "name": "Gustavo Luiz Gordoni",
+    "age": 18,
+    "occupation": [
+      "Computer Technician",
+      "Information Systems Bachelor's Student"
+    ],
+    "frameworks": ["Bootstrap", "Tailwind CSS", "Laravel", "Flutter"],
+    "languages": ["HTML", "CSS", "JavaScript", "PHP", "Java", "C++", "Dart"],
+    "technologies": ["Linux", "Docker"],
+    "learning": ["Ngrok", "Spring"]
+  }
+  ```
+</td>
+
+</tr> 
+</table> 
 
 <p align="center">
   <a href="https://github.com/gustavogordoni">
