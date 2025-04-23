@@ -10,6 +10,35 @@
   -->
 </p>
 
+<picture style="height: 195px; display: flex; justify-content: center; align-items: center;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=ffffff&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=000000&bg_color=00000000">  
+  <img align="left" width="45%" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogordoni&layout=compact&hide_border=true&title_color=f75c7e&text_color=888888&bg_color=00000000" />
+  
+</picture>
+ 
+```json
+{
+  "name": "Gustavo Luiz Gordoni",
+  "age": 18,
+  "occupation": [
+    "Computer Technician",
+    "Information Systems Bachelor's Student"
+  ],
+  "languages": [
+    "HTML", "CSS", "JavaScript", "PHP", "Java", "C++", "Dart"
+  ],
+  "frameworks": [
+    "Bootstrap", "Tailwind CSS", "Laravel", "Flutter"
+  ],
+  "technologies": [
+    "MySQL", "Postgres", "Linux", "Docker", "VS Code"
+  ],
+  "learning": ["Ngrok", "Spring"]
+}
+```
+
+<!--
 <table>
   <tr>
     <td valign="middle" width="40%">
@@ -45,6 +74,7 @@
 
 </tr> 
 </table> 
+-->
 
 <p align="center">  
 <!--      <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,java,mysql,postgres,git,bash,linux,vscode,vim,docker" /> -->
