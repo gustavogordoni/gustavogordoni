@@ -35,7 +35,9 @@
     "frameworks": [
       "Bootstrap", "Tailwind CSS", "Laravel", "Flutter"
     ],
-    "technologies": ["MySQL", "Postgres", "Linux", "Docker", "VS Code"],
+    "technologies": [
+      "MySQL", "Postgres", "Linux", "Docker", "VS Code"
+    ],
     "learning": ["Ngrok", "Spring"]
   }
   ```
