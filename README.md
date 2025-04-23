@@ -29,8 +29,12 @@
       "Computer Technician",
       "Information Systems Bachelor's Student"
     ],
-    "frameworks": ["Bootstrap", "Tailwind CSS", "Laravel", "Flutter"],
-    "languages": ["HTML", "CSS", "JavaScript", "PHP", "Java", "C++", "Dart"],
+    "frameworks": [
+      "Bootstrap", "Tailwind CSS", "Laravel", "Flutter"
+    ],
+    "languages": [
+      "HTML", "CSS", "JavaScript", "PHP", "Java", "C++", "Dart"
+    ],
     "technologies": ["Linux", "Docker"],
     "learning": ["Ngrok", "Spring"]
   }
