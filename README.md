@@ -29,13 +29,13 @@
       "Computer Technician",
       "Information Systems Bachelor's Student"
     ],
-    "frameworks": [
-      "Bootstrap", "Tailwind CSS", "Laravel", "Flutter"
-    ],
     "languages": [
       "HTML", "CSS", "JavaScript", "PHP", "Java", "C++", "Dart"
     ],
-    "technologies": ["Linux", "Docker"],
+    "frameworks": [
+      "Bootstrap", "Tailwind CSS", "Laravel", "Flutter"
+    ],
+    "technologies": ["MySQL", "Postgres", "Linux", "Docker", "VS Code"],
     "learning": ["Ngrok", "Spring"]
   }
   ```
@@ -46,7 +46,10 @@
 
 <p align="center">
   <a href="https://github.com/gustavogordoni">
-     <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,java,mysql,postgres,git,bash,linux,vscode,vim,docker" />
+<!--      <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,java,mysql,postgres,git,bash,linux,vscode,vim,docker" /> -->
+  <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,dart" />
+    <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=bootstrap,tailwind,laravel,flutter" />
+    <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=mysql,postgres,linux,docker,vscode" />
   </a>
 </p>
 
