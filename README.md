@@ -78,7 +78,7 @@
 
 <p align="center">  
 <!--      <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,java,mysql,postgres,git,bash,linux,vscode,vim,docker" /> -->
-  <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,dart" /><br><br>
+  <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,dart,bash" /><br><br>
   <img align="center" alt="Ícones de ferramentas e linguagens" src="https://skillicons.dev/icons?i=bootstrap,tailwind,laravel,flutter,mysql,postgres,linux,docker,vscode" />  
 </p>
 
