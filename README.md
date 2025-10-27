@@ -26,7 +26,7 @@
     "Information Systems Bachelor's Student"
   ],
   "languages": [
-    "HTML", "CSS", "JavaScript", "PHP", "Java", "C++", "Dart", "Shell Script"
+    "HTML", "CSS", "JavaScript", "PHP", "Java", "C++", "Dart"
   ],
   "frameworks": [
     "Bootstrap", "Tailwind CSS", "Laravel", "Flutter"
