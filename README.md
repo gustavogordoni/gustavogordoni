@@ -67,7 +67,7 @@
     "technologies": [
       "MySQL", "Postgres", "Linux", "Docker", "VS Code"
     ],
-    "learning": ["Ngrok", "Spring"]
+    "learning": ["Rust", "Hyprland"]
   }
   ```
 </td>
