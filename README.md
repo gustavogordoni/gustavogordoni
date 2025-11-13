@@ -33,8 +33,8 @@
   ],
   "technologies": [
     "MySQL", "Postgres", "Linux", "Docker", "VS Code"
-  ],
-  "learning": ["Ngrok", "Spring"]
+  ],  
+  "learning": ["Rust", "Hyprland"]
 }
 ```
 
@@ -67,7 +67,7 @@
     "technologies": [
       "MySQL", "Postgres", "Linux", "Docker", "VS Code"
     ],
-    "learning": ["Rust", "Hyprland"]
+    "learning": ["Ngrok", "Spring"]
   }
   ```
 </td>
