@@ -34,7 +34,7 @@
   "technologies": [
     "MySQL", "Postgres", "Linux", "Docker", "VS Code"
   ],  
-  "learning": ["Rust"]
+  "learning": ["Rust", "Filament"]
 }
 ```
 
